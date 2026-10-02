@@ -2,9 +2,9 @@
 
 Aspiring Software Engineer & Tech Enthusiast | First-year Computer Science Engineering student at REVA University. Passionate about web development, programming, and building real-world projects.
 
-- 🛠️ **Currently Learning:** Python, C, JavaScript, HTML & CSS
+- 🛠️ **Currently Learning:** Python, AI, C, JavaScript, HTML & CSS
 - 🚀 **Building:** Modern Web Applications & Interactive Tools
-- ⚡ **Goals:** Learning • Building • Improving • Growing
+           Learning • Building • Improving • Growing
 
 ---
 
